@@ -1,7 +1,4 @@
- The Dark-Mode always wins.
-
 Striving to maintain the perfect balance between It doesn't work...! Why? vs It works...! Why?. 
-
 
 - 👋 Hi, I’m @Deepak
 - An 19 years old dude, Learning to teach machines that how to think.
