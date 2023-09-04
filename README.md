@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **Deepak2004ps@Outlook.com**
 
-- ⚡ Fun fact **I am a die hard fan of Marvel Cinematic Universe :)**
+- ⚡ Fun fact **Never used PyCharm or IntelliJ or any such IDE**
+- **#VScode_for_life** 💙
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
