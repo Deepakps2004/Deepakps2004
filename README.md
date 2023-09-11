@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **upskllng my knowledge towards Data Science**
 
-- 🌱 I’m currently learning **More python, CS50.**
-
 - 👯 I’m looking to collaborate on **python projects**
 
 - 📝 I regularly read articles on [https://www.freecodecamp.org/news/tag/blog/](https://www.freecodecamp.org/news/tag/blog/)
