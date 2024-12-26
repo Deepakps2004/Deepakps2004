@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakps2004&label=Profile%20views&color=0e75b6&style=flat" alt="deepakps2004" /> </p>
 
-- 🔭 I’m currently working on **upskllng my knowledge towards MERN stack devolopment**
+- 🔭 I’m currently working on **upskllng my knowledge towards AIML*
 
 - 👯 I’m looking to collaborate on **React projects**
-
-- 📝 I regularly read articles on [https://www.freecodecamp.org/news/tag/blog/](https://www.freecodecamp.org/news/tag/blog/)
-
-- 💬 Ask me about **Linux & Python**
 
 - 📫 How to reach me **Deepak2004ps@Outlook.com**
 
